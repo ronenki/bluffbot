@@ -1,0 +1,8 @@
+function[] = makeCurve(points)
+
+x = [0:0.1:10];
+firstX = [0:0.1:1.5];
+secondX = [1.6:0.1:15];
+y1 = cos(firstX)
+y2 = 
+end

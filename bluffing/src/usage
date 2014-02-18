@@ -1,0 +1,12 @@
+python game.py 1 h n n n
+
+
+
+1 - number of games to be run (for training over multiple games)
+h n n n - list of agents,
+h - human
+n - naivebot
+
+
+
+
